@@ -27,6 +27,8 @@ class Node:
 
 class KnapsackBnBDFS:
     """
+    Solve 0/1 Knapsack problem using Branch and Bound with Depth First Search
+
     Args:
         input_data: str
     Attributes
